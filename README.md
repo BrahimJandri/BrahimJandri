@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brahim Jandri</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif">
+<img align="right" alt="Coding" width="400" src="[https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif](https://image8.uhdpaper.com/wallpaper/matrix-code-binary-uhdpaper.com-4K-8.2824.jpg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimjandri&label=Profile%20views&color=0e75b6&style=flat" alt="brahimjandri" /> </p>
 
