@@ -24,3 +24,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brahimjandri&show_icons=true&locale=en" alt="brahimjandri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahimjandri&" alt="brahimjandri" /></p>
+
+<p align="center">
+<a href=https://github.com/BrahimJandri/libft><img src="https://github.com/BrahimJandri/libft/blob/main/ressources/libftm.png"></a>
+<a href=https://github.com/BrahimJandri/Get_Next_Line><img src="https://github.com/BrahimJandri/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
+<a href=https://github.com/BrahimJandri/ft_printf><img src="https://github.com/BrahimJandri/ft_printf/blob/main/SRC/ft_printfm.png"></a>
+<a href=https://github.com/BrahimJandri/born2beroot><img src="https://github.com/BrahimJandri/Born2BeRoot/blob/main/SRC/born2berootm.png"></a>
