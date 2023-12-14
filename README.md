@@ -13,7 +13,7 @@
 - 📫 How to reach me **Jandribrahim3334@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
- Twitter : **https://twitter.com/JandriIbrahim**
+ 📫 Twitter : <b></b>https://twitter.com/JandriIbrahim</b>
 <p align="left">
 </p>
 
