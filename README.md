@@ -25,6 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahimjandri&" alt="brahimjandri" /></p>
 
+#### 42 projects :
+
 <p align="center">
 <a href=https://github.com/BrahimJandri/libft><img src="https://github.com/BrahimJandri/libft/blob/main/ressources/libftm.png"></a>
 <a href=https://github.com/BrahimJandri/Get_Next_Line><img src="https://github.com/BrahimJandri/Get_Next_Line/blob/main/SRC/get_next_linem.png"></a>
