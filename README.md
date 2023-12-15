@@ -35,6 +35,18 @@
   <br/><br/><br/>
 </div>
 
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=BrahimJandri&theme=default"/>
+    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimJandri&theme=default&layout=compact"/>
+</div>
+
+<hr/>
+
+
 #### 42 projects :
 
 <p align="center">
