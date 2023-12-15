@@ -27,24 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brahimjandri&" alt="brahimjandri" /></p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BrahimJandri/BrahimJandri/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    <img align="right" width="50%" src="https://streak-stats.demolab.com?user=BrahimJandri&theme=default"/>
-    <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimJandri&theme=default&layout=compact"/>
-</div>
-
-<hr/>
 
 
 #### 42 projects :
