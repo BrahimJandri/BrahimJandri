@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brahim Jandri</h1>
+<div align="center"><img src="https://badge.mediaplus.ma/binary/bjandri" align="center" /></div>  
 <h3 align="center">A passionate Full-Stack developer from Morocco, Agadir</h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif">
 
