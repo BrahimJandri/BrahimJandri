@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimjandri&label=Profile%20views&color=0e75b6&style=flat" alt="brahimjandri" /> </p>
 
-- 🔭 I’m currently working on **Get_Next_line**
+- 🔭 I’m currently working on **so_long**
 
 - 🌱 I’m currently learning **C, C++**
 
