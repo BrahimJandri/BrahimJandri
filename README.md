@@ -33,9 +33,9 @@
 #### 42 projects :
 
 <p align="center">
-<a href=https://github.com/BrahimJandri/libft><img src="https://github.com/BrahimJandri/libft/blob/main/libftm.png"></a>
-<a href=https://github.com/BrahimJandri/Get_Next_Line><img src="https://github.com/BrahimJandri/Get_Next_Line/blob/main/get_next_linem.png"></a>
-<a href=https://github.com/BrahimJandri/ft_printf><img src="https://github.com/BrahimJandri/ft_printf/blob/main/ft_printfm.png"></a>
-<a href=https://github.com/BrahimJandri/born2beroot><img src="https://github.com/BrahimJandri/Born2BeRoot/blob/main/born2berootm.png"></a>
+<a href=https://github.com/BrahimJandri/libft><img src="https://github.com/BrahimJandri/libft/blob/main/libft.png"></a>
+<a href=https://github.com/BrahimJandri/Get_Next_Line><img src="https://github.com/BrahimJandri/Get_Next_Line/blob/main/get_next_line.png"></a>
+<a href=https://github.com/BrahimJandri/ft_printf><img src="https://github.com/BrahimJandri/ft_printf/blob/main/ft_printf.png"></a>
+<a href=https://github.com/BrahimJandri/born2beroot><img src="https://github.com/BrahimJandri/Born2BeRoot/blob/main/born2beroot.png"></a>
  <a href=https://github.com/BrahimJandri/Minitalk><img src="https://github.com/BrahimJandri/Minitalk/blob/main/minitalke.png"></a>
 </p>
