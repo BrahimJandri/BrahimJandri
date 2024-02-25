@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brahim Jandri</h1>
 <div align="center"><img src="https://badge.mediaplus.ma/binary/bjandri" align="center" /></div>  
 <h3 align="center">A passionate Full-Stack developer from Morocco, Agadir</h3>
-
+<div align="center"><img src="https://badge.mediaplus.ma/binary/bjandri" align="center" /></div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimjandri&label=Profile%20views&color=0e75b6&style=flat" alt="brahimjandri" /> </p>
 
 - 🔭 I’m currently working on **Push_Swap**
