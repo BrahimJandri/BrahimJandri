@@ -38,4 +38,6 @@
 <a href=https://github.com/BrahimJandri/ft_printf><img src="https://github.com/BrahimJandri/ft_printf/blob/main/ft_printf.png"></a>
 <a href=https://github.com/BrahimJandri/born2beroot><img src="https://github.com/BrahimJandri/Born2BeRoot/blob/main/born2beroot.png"></a>
  <a href=https://github.com/BrahimJandri/Minitalk><img src="https://github.com/BrahimJandri/Minitalk/blob/main/minitalke.png"></a>
+ <a href=https://github.com/BrahimJandri/so_long><img src="https://github.com/BrahimJandri/so_long/blob/main/so_longe.png"></a>
+
 </p>
