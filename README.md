@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brahim Jandri</h1>
+<h1 align="center">Hi, Welcome 👨‍💻, I'm Brahim Jandri</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco, Agadir</h3>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bjandri" alt="bjandri 42 stats" /></a></p>
