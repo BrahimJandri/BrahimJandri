@@ -1,8 +1,6 @@
 <h1 align="center">Hi, Welcome 👨‍💻, I'm Brahim Jandri</h1>
 <h3 align="center">A passionate Full-Stack developer from Morocco, Agadir</h3>
 
-https://badge.mediaplus.ma/darkblue/bjandri
-
 - 🔭 I’m currently working on **Push_Swap**
 
 - 🌱 I’m currently learning **C, C++**
