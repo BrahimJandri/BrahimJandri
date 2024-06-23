@@ -36,6 +36,6 @@
  <a href=https://github.com/BrahimJandri/Minitalk><img src="https://github.com/BrahimJandri/Minitalk/blob/main/minitalke.png"></a>
  <a href=https://github.com/BrahimJandri/so_long><img src="https://github.com/BrahimJandri/so_long/blob/main/so_longe.png"></a>
   <a href=https://github.com/BrahimJandri/push_swap><img src="https://github.com/BrahimJandri/push_swap/blob/main/push_swape.png"></a>
-  <a href=https://github.com/BrahimJandri/Philosophers><img src="https://github.com/BrahimJandri/Philosopher/blob/main/philosopher.png"></a>
+  <a href=https://github.com/BrahimJandri/Philosophers><img src="https://github.com/BrahimJandri/Philosophers/blob/main/philosopher.png"></a>
 
 </p>
