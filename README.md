@@ -39,7 +39,7 @@
   <a href=https://github.com/BrahimJandri/Philosophers><img src="https://github.com/BrahimJandri/Philosophers/blob/main/philosopher.png"></a>
   <a href=https://github.com/BrahimJandri/MINICHELL><img src="https://github.com/BrahimJandri/MINICHELL/blob/main/minishelle.png"></a>
   <a href=https://github.com/BrahimJandri/NetPractice><img src="https://github.com/BrahimJandri/NetPractice/blob/main/netpractice.png"></a>
- <a href=https://github.com/BrahimJandri/CPP-Modules><img src="https://github.com/BrahimJandri/NetPractice/blob/main/cpp.png"></a>
+ <a href=https://github.com/BrahimJandri/CPP-Modules><img src="https://github.com/BrahimJandri/CPP-Modules/blob/main/cpp.png"></a>
 
 
 </p>
