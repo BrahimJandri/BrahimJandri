@@ -40,7 +40,7 @@
   <a href=https://github.com/BrahimJandri/MINICHELL><img src="https://github.com/BrahimJandri/MINICHELL/blob/main/minishelle.png"></a>
   <a href=https://github.com/BrahimJandri/NetPractice><img src="https://github.com/BrahimJandri/NetPractice/blob/main/netpractice.png"></a>
  <a href=https://github.com/BrahimJandri/CPP-Modules><img src="https://github.com/BrahimJandri/CPP-Modules/blob/main/cpp.png"></a>
-  <a href=https://github.com/BrahimJandri/cub3d><img src="https://github.com/BrahimJandri/cub3d/tree/parsing/blob/main/cub3d.png"></a>
+  <a href=https://github.com/BrahimJandri/cub3d><img src="https://github.com/BrahimJandri/cub3d/blob/main/cub3d.png"></a>
 
 
 </p>
