@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Welcome 👨‍💻, I'm Brahim Jandri</h1>
 <h3 align="center">A passionate Mobile developer from Morocco, Agadir</h3>
 
-- 🔭 I’m currently working on **CUB3D** && **CPP**
+- 🔭 I’m currently working on **CPP05**
 
 - 🌱 I’m currently learning **C, C++**
 
