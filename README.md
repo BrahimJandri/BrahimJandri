@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CPP05**
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **C++ && Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BrahimJandri](https://github.com/BrahimJandri)
 
