@@ -10,7 +10,7 @@
 - 📫 How to reach me **Jandribrahim3334@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
- 📫 Twitter : <b></b>https://twitter.com/JandriIbrahim</b>
+ 📫 Linkedin : https://www.linkedin.com/in/brahim-jandri-1190ba256/
 <p align="left">
 </p>
 
