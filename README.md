@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Webserv** & **Inception**
 
-- 🌱 I’m currently learning **C++ && Typescript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/BrahimJandri](https://github.com/BrahimJandri)
 
 - 📫 How to reach me **Jandribrahim3334@gmail.com**
