@@ -1,4 +1,5 @@
-font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Brahim+Jandri;Software+Developer;42+Network+Student;Problem+Solver" alt="Typing SVG" />
+<div align="center">
+<h3 align="center">A passionate developer from Morocco, Agadir</h3>	  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Brahim+Jandri;Software+Developer;42+Network+Student;Problem+Solver" alt="Typing SVG" />
 </div>
 
 
@@ -215,3 +216,14 @@ Explore my journey through the 42 Network curriculum - a collection of projects 
   [![Profile Views](https://komarev.com/ghpvc/?username=brahimjandri&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/BrahimJandri)
 
 </div>
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Community
+Docs
+Contact
+Manage cookies
