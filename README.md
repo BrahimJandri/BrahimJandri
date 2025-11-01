@@ -62,7 +62,7 @@
 
 ### 🐍 Contribution Graph
 
-<div align="center">
+<div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/BrahimJandri/BrahimJandri/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
