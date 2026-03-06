@@ -165,6 +165,11 @@ Explore my journey through the 42 Network curriculum - a collection of projects 
 </a>
 </td>
 <td align="center" width="20%">
+<a href="https://github.com/BrahimJandri/PyModules">
+<img src="https://github.com/BrahimJandri/PyModules/blob/main/PythonModule.png" width="100%" alt="PyModules"/>
+<br><b>PyModules</b>
+</a>
+</td>
 <!-- Empty cell for symmetry -->
 </td>
 </tr>
