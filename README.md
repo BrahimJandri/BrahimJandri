@@ -21,6 +21,7 @@
 - 🌱 Continuously learning and improving my skills
 - 📍 Based in **Agadir, Morocco**
 - 📫 Reach me at: **Jandribrahim3334@gmail.com**
+- Currently looking for an internship in **fullStack** and **Ai**
 
 ---
 
